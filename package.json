@@ -2,13 +2,13 @@
   "name": "pjs1",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "pjs1"
+    "url": "https://github.com/rainbow007/pjs1.git"
   },
   "author": "putul",
   "license": "ISC",
